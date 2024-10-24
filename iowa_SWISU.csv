@@ -1,0 +1,2 @@
+﻿Neighborhood,LotArea,MSSubClass,LotFrontage,MSZoning,GrLivArea,TotalBaths,TotalBsmtArea,BuildingQuality,TotRmsAbvGrd,ExterQual,KitchenQual,BsmtQual,CentralAir,HeatingQC,GarageCars,GarageArea,GarageFinish,FireplaceQu,GarageType,SalePrice
+SWISU,25000,120,70,RH,837,1,0,15,1,Ex,Ex,na,na,Ta,1,40,Fin,Gd,Attchd,239900
