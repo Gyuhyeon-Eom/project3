@@ -1,0 +1,6 @@
+﻿Neighborhood,LotArea,MSSubClass,LotFrontage,MSZoning,GrLivArea,TotalBaths,TotalBsmtArea,BuildingQuality,TotRmsAbvGrd,ExterQual,KitchenQual,BsmtQual,CentralAir,HeatingQC,GarageCars,GarageArea,GarageFinish,FireplaceQu,GarageType,SalePrice
+SWISU,25000,120,70,RH,837,1,0,15,1,Ex,Ex,na,na,Ta,1,40,Fin,Gd,Attchd,239900
+OldTown,4791,70,50,RL,1342,1,400,5,2,Fa,Fa,Po,1,Fa,0,0,na,na,na,165000
+Sawyer,6969,20,50,RL,904,2,723,9,4,Po,Ta,Gd,1,Ta,1,80,Fin,na,Attchd,249900
+Veenker,"12,196.80",20,80.00,RL,"1,810.00",3,300.00,13,3.00,Ta,Gd,Ta,1,Ta,2,120,Fin,Ta,Attchd,379900
+Mitchell,"14,810.40",80,100,RM,2668,3.5,1292,17,6,Gd,Gd,Gd,1,Ex,3,220,Fin,Ex,Attchd,679900
